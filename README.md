@@ -1,4 +1,4 @@
-hyper_glove
+Hyper_Glove
 ===========
 
-A software repository for the hyper glove. This repository governs reading and processing data from hyper glove.
+A software repository for the Hyper Glove. This repository governs reading and processing data from the Hyper Glove.
